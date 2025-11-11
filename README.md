@@ -64,11 +64,3 @@
 </picture>
 
 ###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/qckaycxkqz3x7jgqxytn0yn3i">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=qckaycxkqz3x7jgqxytn0yn3i&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
